@@ -4,7 +4,7 @@ that had 60,000 training samples, and 10,000 test samples.
 Each image is represented by 28x28 pixels, each having
 a grayscale value of 0 - 255
 
-here it uses a simplified versioon of training the model upon 0-9,+,-,*,/
+here it uses a simplified version of training the model upon 0-9,+,-,*,/
 only to fetch the answer of basic handwritten equation.
 This idea has possibility of wide variety of features that could be added to it and deployed 
 
